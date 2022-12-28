@@ -39,6 +39,10 @@ Analysis Pipeline for SUPERMARKET SALES
     5. click in the button run
 
 ### Screenshots
-![alt text](https://github.com/Nor-Mand/hotelReservation/blob/main/images/picture_1.png)
-![alt text](https://github.com/Nor-Mand/hotelReservation/blob/main/images/picture_2.png)
-![alt text](https://github.com/Nor-Mand/hotelReservation/blob/main/images/picture_3.png)
+![alt text](https://github.com/Nor-Mand/supermarket_sales/blob/main/images/picture_1.png)
+![alt text](https://github.com/Nor-Mand/supermarket_sales/blob/main/images/picture_2.png)
+![alt text](https://github.com/Nor-Mand/supermarket_sales/blob/main/images/picture_3.png)
+![alt text](https://github.com/Nor-Mand/supermarket_sales/blob/main/images/picture_4.png)
+![alt text](https://github.com/Nor-Mand/supermarket_sales/blob/main/images/picture_5.png)
+![alt text](https://github.com/Nor-Mand/supermarket_sales/blob/main/images/picture_6.png)
+![alt text](https://github.com/Nor-Mand/supermarket_sales/blob/main/images/picture_7.png)
